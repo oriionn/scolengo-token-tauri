@@ -44,3 +44,4 @@ npm run tauri build
 
 ---
 Crédit Front End: [scolengo-token](https://github.com/maelgangloff/scolengo-token/tree/master)
+Crédit Tauri Action: [tauri-action (Fork)](https://github.com/Avocadocs/tauri-action)
