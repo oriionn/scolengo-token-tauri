@@ -29,7 +29,7 @@ git clone https://github.com/oriionn/scolengo-token-tauri
 
 2. Installer les dépendances
 ```shell
-npm install # yarn install
+npm install
 ```
 
 3. Lancer l'application
