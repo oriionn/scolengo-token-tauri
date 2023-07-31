@@ -1,6 +1,6 @@
 [package]
 name = "scolengo-token-tauri"
-version = "1.2"
+version = "1.2.0"
 description = "Get your Skolengo's token"
 authors = ["orion"]
 license = "https://github.com/oriionn/scolengo-token-tauri/blob/main/LICENSE"
